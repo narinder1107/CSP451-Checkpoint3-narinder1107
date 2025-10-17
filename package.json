@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+     "lint": "eslint .",
+    "test": "jest --coverage",
+    "build": "your-build-command"
+ },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/narinder1107/CSP451-Checkpoint3-narinder1107.git"
@@ -15,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/narinder1107/CSP451-Checkpoint3-narinder1107/issues"
   },
-  "homepage": "https://github.com/narinder1107/CSP451-Checkpoint3-narinder1107#readme"
+  "homepage": "https://github.com/narinder1107/CSP451-Checkpoint3-narinder1107#readme",
+  "devDependencies": {
+    "eslint": "^9.38.0"
+  }
 }
+
