@@ -1,0 +1,19 @@
+{
+  "name": "csp451-checkpoint3-narinder1107",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narinder1107/CSP451-Checkpoint3-narinder1107.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narinder1107/CSP451-Checkpoint3-narinder1107/issues"
+  },
+  "homepage": "https://github.com/narinder1107/CSP451-Checkpoint3-narinder1107#readme"
+}
